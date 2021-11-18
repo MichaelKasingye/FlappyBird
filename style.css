@@ -3,6 +3,8 @@
     margin: 0;
 }
 .cover{
+    margin: auto auto;
+    width:1700px;
      display: flex;
   flex-direction: column;
     justify-content: center;
